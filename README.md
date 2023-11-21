@@ -1,2 +1,3 @@
-# Collection-Of-Videos
-Compilation of videos that you like
+# Wise View  
+Compilation of videos that you like using HTMX
+
