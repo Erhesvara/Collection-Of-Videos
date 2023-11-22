@@ -64,16 +64,21 @@ These different features will ehance your experience looking and watching your f
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+_run the app.py_
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Install the requiremets.txt in your pycharm to get started
+
+Check if the list in the requirments are complete and installed using:
+
 * npm
   ```sh
   npm install npm@latest -g
   ```
+
+
+This is an example of how to list things you need to use the software and how to install them.
 
 ### Installation
 
