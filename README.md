@@ -64,7 +64,7 @@ These different features will ehance your experience looking and watching your f
 <!-- GETTING STARTED -->
 ## Getting Started
 
-_run the app.py_
+_ just run the app.py_
 
 ### Prerequisites
 
