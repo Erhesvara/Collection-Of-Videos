@@ -70,11 +70,11 @@ _run the app.py_
 
 Install the requiremets.txt in your pycharm to get started
 
-Check if the list in the requirments are complete and installed using:
+Check if the list in the requirments are complete and installed using the terminal
 
-* npm
+* pip
   ```sh
-  npm install npm@latest -g
+  pip list
   ```
 
 
