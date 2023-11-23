@@ -90,9 +90,9 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    pip: -r requirements.txt
    ```
-4. Enter your API in `config.js`
+4. Export current environment configuration file: 
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   pip freeze
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
