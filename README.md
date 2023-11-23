@@ -91,7 +91,7 @@ _Below is an example of how you can instruct your audience on installing and set
    pip: -r requirements.txt
    ```
 4. Export current environment configuration file: 
-   ```js
+   ```py
    pip freeze
    ```
 
