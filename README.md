@@ -86,9 +86,9 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/your_username_/Project-Name.git](https://github.com/Erhesvara/Collection-Of-Videos
    ```
-3. Install NPM packages
+3. Install PIP packages
    ```sh
-   npm install
+   pip: -r requirements.txt
    ```
 4. Enter your API in `config.js`
    ```js
