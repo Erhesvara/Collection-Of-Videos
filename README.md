@@ -49,7 +49,7 @@ These different features will ehance your experience looking and watching your f
 
 ### Built With
 
-* [![Python][Python][https://www.python.org/]
+* [![Python][Python]][Python-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
