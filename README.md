@@ -113,6 +113,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Finish Readme "contributions"
 - [ ] Finish readme "built with" and add photo
+- [ ] Finish acknowledgement 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
