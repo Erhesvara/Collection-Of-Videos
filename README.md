@@ -76,11 +76,9 @@ Check if the list in the requirments are complete and installed using the termin
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git](https://github.com/Erhesvara/Collection-Of-Videos
+   git clone https://github.com/Erhesvara/Collection-Of-Videos
    ```
 3. Install PIP packages
    ```sh
