@@ -94,7 +94,7 @@ Check if the list in the requirments are complete and installed using the termin
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Usage 
+Collect videos in different platform and use it as a compilations of different videos 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
