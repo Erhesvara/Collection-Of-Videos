@@ -101,7 +101,6 @@ Compilation of different videos
 ## Roadmap
 
 - [x] Chapter 6 learning
-- [x] Present to school
 - [ ] Finish the tutorials
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Finish Readme "contributions"
