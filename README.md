@@ -114,7 +114,7 @@ Compilation of different videos
 
 Credits to Talk Python Training: 
 
-[https://training.talkpython.fm/]
+(https://training.talkpython.fm/)
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
