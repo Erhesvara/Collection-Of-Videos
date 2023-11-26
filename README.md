@@ -42,9 +42,7 @@ Feature:
 
 These different features will ehance your experience looking and watching your favorites videos.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
