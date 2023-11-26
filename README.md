@@ -21,7 +21,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -108,14 +107,6 @@ Compilation of different videos
 - [ ] Finish acknowledgement 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
