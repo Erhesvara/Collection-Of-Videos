@@ -56,6 +56,7 @@ These different features will ehance your experience looking and watching your f
 
 _just run the app.py_
 
+
 ### Prerequisites
 
 Install the requiremets.txt in your pycharm to get started
