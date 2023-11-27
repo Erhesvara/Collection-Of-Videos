@@ -45,7 +45,7 @@ These different features will ehance your experience looking and watching your f
 * Python
 * Flask
 * HTMX
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* Bootstrap
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
