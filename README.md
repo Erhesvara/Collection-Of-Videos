@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -107,7 +108,6 @@ Compilation of different videos
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -117,4 +117,3 @@ https://training.talkpython.fm/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
